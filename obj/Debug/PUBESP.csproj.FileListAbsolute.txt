@@ -1,0 +1,32 @@
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.csprojAssemblyReference.cache
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBGMESP.MainForm.resources
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.Properties.Resources.resources
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.csproj.GenerateResource.cache
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.csproj.CoreCompileInputs.cache
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.exe
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.pdb
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\PUBESP.exe.config
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\PUBESP.exe
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\PUBESP.pdb
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\GameOverlay.xml
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.DXGI.xml
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.csproj.Fody.CopyLocal.cache
+C:\Users\inthiaano\Desktop\PUBG\PUBGM-ESP-AIMBOT-master\PUBGM-ESP-AIMBOT-master\obj\Debug\PUBESP.csproj.CopyComplete
+F:\development task\pubg game\PUBGm\bin\Debug\PUBESP.exe.config
+F:\development task\pubg game\PUBGm\bin\Debug\PUBESP.exe
+F:\development task\pubg game\PUBGm\bin\Debug\PUBESP.pdb
+F:\development task\pubg game\PUBGm\bin\Debug\GameOverlay.xml
+F:\development task\pubg game\PUBGm\bin\Debug\SharpDX.Direct2D1.xml
+F:\development task\pubg game\PUBGm\bin\Debug\SharpDX.DXGI.xml
+F:\development task\pubg game\PUBGm\bin\Debug\SharpDX.Mathematics.xml
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.csprojAssemblyReference.cache
+F:\development task\pubg game\PUBGm\obj\Debug\PUBGMESP.MainForm.resources
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.Properties.Resources.resources
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.csproj.GenerateResource.cache
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.csproj.CoreCompileInputs.cache
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.csproj.Fody.CopyLocal.cache
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.csproj.CopyComplete
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.exe
+F:\development task\pubg game\PUBGm\obj\Debug\PUBESP.pdb
